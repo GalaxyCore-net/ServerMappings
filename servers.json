@@ -1,4 +1,11 @@
 [   
+ {
+        "id": "prismamc",
+        "name": "PrismaMC Network",
+        "addresses": [
+            "prismamc.net"
+        ]
+    },
    {
         "id": "ikami",
         "name": "Ikami Network",
@@ -1752,6 +1759,13 @@
 	]
     },
     {
+	"id": "combo",
+	"name": "Combo Network",
+	"addresses": [
+	    "combo.rip"
+	]
+    },
+    {
 	"id": "megaplanet",
 	"name": "MEGA Planet",
 	"addresses": [
@@ -1822,10 +1836,17 @@
         ]
     },
     {
-        "id": "neptunepvp",
-        "name": "Neptune Network",
+        "id": "nordicmc",
+        "name": "NordicMC",
         "addresses": [
-            "neptunepvp.us"
+            "nordicmc.es"
+        ]
+    },
+    {
+        "id": "goldzonecz",
+        "name": "Gold-Zone.cz",
+        "addresses": [
+            "gold-zone.cz"
         ]
     },
     {
@@ -1840,7 +1861,77 @@
         "name": "Kandang Alwi",
         "addresses": [
             "kandangalwi.net",
-	    "kandangalwi.id"
+            "kandangalwi.id"
+        ]
+    },
+    {
+        "id": "timbw",
+        "name": "TimBW Network",
+        "addresses": [
+            "timbw.xyz"
+        ]
+    },
+    {
+        "id": "pvpcraftcz",
+        "name": "PvPCraft.cz",
+        "addresses": [
+            "pvpcraft.cz"
+        ]
+    },
+    {
+        "id": "hylers",
+        "name": "Hylers Network",
+        "addresses": [
+            "hylers.net"
+        ]
+    },
+    {
+        "id": "motimaa",
+        "name": "Motimaa",
+        "addresses": [
+            "motimaa.net"
+        ]
+    },
+    {
+        "id": "quutio",
+        "name": "Quut.io",
+        "addresses": [
+            "quut.io"
+        ]
+    },
+    {
+        "id": "potpvpland",
+        "name": "PotPvP Land",
+        "addresses": [
+            "potpvp.land"
+        ]
+    },
+    {
+        "id": "stolencode",
+        "name": "StolenCode",
+        "addresses": [
+            "stolencode.fun"
+        ]
+    },
+    {
+        "id": "eclipsepvp",
+        "name": "EclipsePvP",
+        "addresses": [
+            "eclipsepvp.club"
+          ]
+    },
+    {
+        "id": "synxnetwork",
+        "name": "Synx Network",
+        "addresses": [
+            "synx.live"
+        ]
+    },
+    {
+        "id": "vervekits",
+        "name": "Verve Kits",
+        "addresses": [
+            "verve.rip"
         ]
     }
 ]
